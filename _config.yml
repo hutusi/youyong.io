@@ -6,7 +6,7 @@ language: 'en-us'
 words_per_minute: 350
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /youyong.io/
 
 # Website info
 title: 有用
@@ -88,6 +88,8 @@ exclude:
   - gulpfile.js
   - LICENSE
   - package.json
+  - package-lock.json
+  - yarn.lock
   - Rakefile
   - README.md
   - script.py
